@@ -150,7 +150,6 @@ body {
 }
 
 img {
-  border: 1px solid red;
   float: right;
 }
 @media (max-width: 768px) {
